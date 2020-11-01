@@ -1,3 +1,7 @@
+This repository has a pytorch implementation of data augmentation for NER, introduced in our COLING 2020 paper:
+
+Xiang Dai and Heike Adel. 2020. An Analysis of Simple Data Augmentation for Named Entity Recognition. In COLING, Online.
+
 ## Prepare the i2b2-2010 dataset
 The training set contains only 50 sentences
 ~~~
